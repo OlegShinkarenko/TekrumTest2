@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{02375E1B-B21A-01F3-93E5-BD1D5CC58281}") = "TekrumTest2", "Assembly-CSharp-firstpass.csproj", "{727F7BC1-0772-D4AD-274F-AABFED0B90C9}"
+EndProject
+Project("{02375E1B-B21A-01F3-93E5-BD1D5CC58281}") = "TekrumTest2", "Assembly-CSharp.csproj", "{5AE7F0D0-D4C5-0F5B-817E-0041B952ACAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727F7BC1-0772-D4AD-274F-AABFED0B90C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727F7BC1-0772-D4AD-274F-AABFED0B90C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727F7BC1-0772-D4AD-274F-AABFED0B90C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727F7BC1-0772-D4AD-274F-AABFED0B90C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE7F0D0-D4C5-0F5B-817E-0041B952ACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE7F0D0-D4C5-0F5B-817E-0041B952ACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE7F0D0-D4C5-0F5B-817E-0041B952ACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE7F0D0-D4C5-0F5B-817E-0041B952ACAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
